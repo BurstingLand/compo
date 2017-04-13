@@ -47,7 +47,7 @@
     {
       "component": "header",
       "heading": "compo",
-      "subhead": null,
+      "subhead": "subhead text",
       "children": [
         {
           "component": "ui/TweetButton",
@@ -58,6 +58,18 @@
           "component": "ui/GithubButton",
           "user": "BurstingLand",
           "repo": "compo"
+        }
+      ],
+      "slug": "slug text",
+      "text": "just text",
+      "links": [
+        {
+          "href": "https://twitter.com/burstingland",
+          "text": "twitter"
+        },
+        {
+          "href": "",
+          "text": ""
         }
       ]
     },
